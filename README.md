@@ -5,7 +5,7 @@
 This project provides a RESTful API to collect, process, and store stock market data. The API allows fetching detailed stock prices, session information, and stock categories from external sources and stores them in a database for further analysis.
 
 ## Directory Structure
-
+``` 
 RESTFUL_API/
 │
 ├── api/
@@ -36,7 +36,7 @@ RESTFUL_API/
 │ └── app.py
 │
 ├── .env
-
+``` 
 ## Main Components
 
 - **detail_stock_price**: Handles fetching, processing, and storing detailed stock price data.
