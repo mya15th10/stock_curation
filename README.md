@@ -46,9 +46,6 @@ RESTFUL_API/
 - **extension.py**: Manages extensions and initializations (e.g., database setup).
 - **app.py**: The entry point of the API service where the application is initialized and run.
 
-## Installation Guide
-
-[Provide installation instructions here.]
 
 ## Usage
 
